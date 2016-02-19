@@ -1,0 +1,12 @@
+layout_spectrum: 0.6017749
+color:
+  saturation: 0
+  lightness: 0.2106383
+  brandStrength: 1
+  brandColors:
+    - '#31302F'
+    - '#C4BFBB'
+    - '#877F78'
+  rhythmicContrast: 0
+typography_spectrum: 0.7276596
+name: thehive
