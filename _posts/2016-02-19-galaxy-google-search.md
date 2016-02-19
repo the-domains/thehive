@@ -9,10 +9,10 @@ publisher:
 keywords: []
 description: ''
 app_links: []
-isBasedOnUrl: 'https://www.google.com/search?q=galaxy&client=safari&hl=en-us&prmd=isnv&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjkgpP6h4PLAhUMFj4KHdN-AdIQ_AUICCgB&biw=320&bih=460#imgrc=2K2vviPT7Fy5nM%3A'
+isBasedOnUrl: 'https://www.google.com/search?q=galaxy&client=safari&hl=en-us&prmd=isnv&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjkgpP6h4PLAhUMFj4KHdN-AdIQ_AUICCgB&biw=320&bih=460#imgrc=7gOpzIjbhlhITM%3A'
 title: galaxy - Google Search
-datePublished: '2016-02-19T05:12:38.917Z'
-dateModified: '2016-02-19T05:11:02.834Z'
+datePublished: '2016-02-19T05:12:38.929Z'
+dateModified: '2016-02-19T05:10:49.601Z'
 sourcePath: _posts/2016-02-19-galaxy-google-search.md
 published: true
 inFeed: true
