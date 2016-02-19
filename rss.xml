@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[thehive]]></title>
         <description><![CDATA[thehive]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thehive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 05:12:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 05:12:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thehive/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thích Nhất Hạnh Quotes (Author of Peace Is Every Step)]]></title>
+            <description><![CDATA[<article><h1>Thích Nhất Hạnh Quotes (Author of Peace Is Every Step)</h1><p>782 quotes from Thích Nhất Hạnh: 'Walk as if you are kissing the Earth with your feet.', 'When another person makes you suffer, it is because he suffers deeply within himself, and his suffering is spilling over. He does not need punishment; he needs help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db93f1ad413ea403051b438b08e4a518c9ec930a.jpg"></article>]]></description>
+            <link>http://www.goodreads.com/author/quotes/9074.Th_ch_Nh_t_H_nh</link>
+            <guid isPermaLink="false">5b35b082-f77e-49c7-98fe-f7c380c934bf</guid>
+            <pubDate>Fri, 19 Feb 2016 05:12:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[galaxy - Google Search]]></title>
             <description><![CDATA[<article><h1>galaxy - Google Search</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b5c4274dc27f383b26b9c1a957ded7414d9b1b.jpg"></article>]]></description>
